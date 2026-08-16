@@ -3,7 +3,7 @@
 M.Tech (AIML) · Work Integrated Learning Programmes Division · BITS Pilani
 
 **Live Streamlit app:** _<add your app URL here after deploying>_
-**GitHub repository:** https://github.com/2025ac05514-bot/dry-bean-classification-streamlit
+**GitHub repository:** https://github.com/praveenmulesoft/dry-bean-classification-streamlit
 
 ---
 
@@ -70,7 +70,7 @@ train/serve skew.
 
 ## c. GitHub repository link
 
-https://github.com/2025ac05514-bot/dry-bean-classification-streamlit
+https://github.com/praveenmulesoft/dry-bean-classification-streamlit
 
 Repository contents:
 
