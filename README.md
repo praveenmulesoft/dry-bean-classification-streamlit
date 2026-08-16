@@ -2,7 +2,7 @@
 
 M.Tech (AIML) · Work Integrated Learning Programmes Division · BITS Pilani
 
-**Live Streamlit app:** _<add your app URL here after deploying>_
+**Live Streamlit app:** https://dry-bean-classification-app-g9datrsxbnqprjwsx3cjf2.streamlit.app/
 **GitHub repository:** https://github.com/praveenmulesoft/dry-bean-classification-streamlit
 
 ---
